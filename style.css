@@ -221,7 +221,7 @@ img {
 
 /* contacto */
 .contacto_bg {
-    background-image: url(../blogdecafe_inicio/img/contacto.jpg);
+    background-image: url(img/contacto.jpg);
     height: 48rem;
     background-size: cover;
     background-repeat: no-repeat;
